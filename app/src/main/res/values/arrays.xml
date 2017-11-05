@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_currency">
+        <item>@string/click</item>
+        <item>@string/aud</item>
+        <item>@string/usd</item>
+        <item>@string/ngn</item>
+        <item>@string/cny</item>
+        <item>@string/eur</item>
+        <item>@string/cad</item>
+        <item>@string/gbp</item>
+        <item>@string/chf</item>
+        <item>@string/sek</item>
+        <item>@string/azn</item>
+        <item>@string/jpy</item>
+        <item>@string/hkd</item>
+        <item>@string/crc</item>
+        <item>@string/trysym</item>
+        <item>@string/ggp</item>
+        <item>@string/mxn</item>
+        <item>@string/krw</item>
+        <item>@string/zar</item>
+        <item>@string/brl</item>
+        <item>@string/php</item>
+
+    </string-array>
+    <string-array name="array_main">
+        <item>@string/click</item>
+        <item>@string/btc</item>
+        <item>@string/eth</item>
+
+
+    </string-array>
+
+</resources>
